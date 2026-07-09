@@ -1,0 +1,13 @@
+# Secrets / credentials
+.env
+credentials.json
+token.json
+
+# Virtual environment
+assistant/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
